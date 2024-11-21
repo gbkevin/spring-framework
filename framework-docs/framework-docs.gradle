@@ -42,7 +42,7 @@ repositories {
 }
 
 dependencies {
-	api(project(":spring-aspects"))
+//	api(project(":spring-aspects"))
 	api(project(":spring-context"))
 	api(project(":spring-context-support"))
 	api(project(":spring-jdbc"))
