@@ -38,5 +38,5 @@ Follow [@SpringCentral](https://twitter.com/springcentral), [@SpringFramework](h
 The Spring Framework is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
 
 ## 备注
-1、该版本要求java_home jdk17以及gradle配置的jdk21+,在idea里面统一使用jdk21+
+1、该版本要求java_home jdk17以及gradle配置的jdk21+
 2、gradle版本按照配置里面的使用gradle-8.11-bin.zip,要自己手动下载放置到项目的gradle/wrapper/目录下,否则会报connect连接错误
